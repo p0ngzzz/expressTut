@@ -1,0 +1,27 @@
+2024-08-24 22:34:44	0f128320-76e7-4961-9fcd-488cf545ac15	Error: Not allowed by CORS
+2024-08-25 03:38:23	5c6b321c-f237-4a66-a182-5b06a459389d	Error: ENOENT: no such file or directory, stat 'C:\Users\Windows 10\Desktop\Backend\expressJs\intro_express\routes\views\index.html'
+2024-08-25 04:10:03	f8ca9b66-2a87-420c-9fbd-1d52756e78f3	SyntaxError: Unexpected token } in JSON at position 56
+2024-08-25 04:14:30	c198849e-0203-4c93-86d9-dad5493c4bb1	SyntaxError: Unexpected token } in JSON at position 13
+2024-08-25 04:14:36	6b890c58-d178-4579-a5d6-71bf9f53b006	SyntaxError: Unexpected token } in JSON at position 13
+2024-08-26 15:05:02	194f4cfe-00f7-4946-aeab-280cf4c32881	SyntaxError: Unexpected token } in JSON at position 13
+2024-08-27 01:39:07	2adf84d8-df68-4ed5-b462-4e184189868e	SyntaxError: Unexpected token ' in JSON at position 12
+2024-09-03 00:33:11	5f99efab-42c0-4066-a9a8-23f6bd4ca136	SyntaxError: Unexpected token ' in JSON at position 19
+2024-09-03 00:33:22	c1784bba-ade2-47de-9541-59f14120c27a	ReferenceError: newProduct is not defined
+2024-09-03 00:33:53	23cead73-7bf3-4ce6-86e5-c5b9b243052b	ReferenceError: newProduct is not defined
+2024-09-03 00:35:46	edf63392-f3a7-4a3c-a662-7c9ef88aa540	ReferenceError: newProduct is not defined
+2024-09-03 00:52:36	b7a06246-28fe-4553-9606-1ec0c159c9bc	ReferenceError: body is not defined
+2024-09-03 00:54:27	eab963b2-dc3f-4d60-a013-adf8ca21895f	ReferenceError: body is not defined
+2024-09-03 00:56:45	6f0489ee-d9ce-4aa4-91d8-86a0f6208323	ReferenceError: body is not defined
+2024-09-03 00:57:31	0c00010c-f38e-43ff-874a-4dc6237450be	ReferenceError: body is not defined
+2024-09-03 00:57:45	541b1493-fa4a-4d08-aad1-a5708a55e5b2	ReferenceError: body is not defined
+2024-09-03 00:59:00	bc96389e-8eac-4789-9264-b4d004d26e65	ReferenceError: body is not defined
+2024-09-03 01:00:31	24ea8b1f-723e-472e-bf6a-82f387b93bcd	TypeError: otherProductList is not iterable
+2024-09-03 01:01:20	5e51e547-41c1-4f6d-b870-eb019bdb6b88	TypeError: otherProductList is not iterable
+2024-09-03 01:01:44	18298be3-de7f-4663-8be9-cbd10dd42f9b	TypeError: otherProductList is not iterable
+2024-09-03 01:02:25	65c77766-fd73-4c50-91d3-42c3e5ec8a61	TypeError: product.sort is not a function
+2024-09-03 01:03:01	52f32f6d-fc4e-434e-be68-afb2f0484c55	ReferenceError: product is not defined
+2024-09-03 01:07:49	c5e94ac3-39ae-4011-b2f3-7abf5f0cd896	SyntaxError: Unexpected token , in JSON at position 117
+2024-09-03 01:08:56	06c3ca7e-d9a3-4778-bb3d-e54d14be2539	ReferenceError: setProducts is not defined
+2024-09-03 01:09:00	b88ce53b-43f1-4e7e-977b-d91b4bb78858	ReferenceError: setProducts is not defined
+2024-09-03 16:13:26	da432fb0-009b-4da5-9657-7334f5e4e921	ReferenceError: whiteList is not defined
+2024-09-03 18:14:36	b7986c9e-e5e1-455c-b5b7-0ea96b5c02ed	TypeError: role.includes is not a function

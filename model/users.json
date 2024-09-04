@@ -1,0 +1,14 @@
+[
+  {
+    "username": "neaAdmin",
+    "roles": { "Admin": 5150 },
+    "password": "$2b$10$VPTG07jhvlAXX.aAipTeMuu/1K2IgqK0VILNBHX06K0Hvhts7LnBe",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5lYUFkbWluIiwiaWF0IjoxNzI1MzYyNjU5LCJleHAiOjE3MjU0NDkwNTl9.K6jbxEi0YCC-7iADPUZdvptjQ3g35_EnebB1RSnHmkI"
+  },
+  {
+    "username": "neaAdmin",
+    "roles": { "Admin": 5150 },
+    "password": "$2b$10$VPTG07jhvlAXX.aAipTeMuu/1K2IgqK0VILNBHX06K0Hvhts7LnBe",
+    "refreshToken": ""
+  }
+]
